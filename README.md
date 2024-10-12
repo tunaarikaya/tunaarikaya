@@ -1,4 +1,3 @@
-http://[![MasterHead](https://media.licdn.com/dms/image/v2/D4D03AQG3O-QGHvUE_Q/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1723937442557?e=1733961600&v=beta&t=ekIR4ckr5TE_ITHphGiAbC95Cvw9LhPL7cZN0PW9H50)
 <h1 align="center">Hi 👋, I'm Tuna Arıkaya</h1>
 <h3 align="center">A passionate Mobile developer from Turkey.</h3>
 
