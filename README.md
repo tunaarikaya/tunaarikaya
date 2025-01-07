@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Tuna Arıkaya</h1>
+<h1 align="center">Hi ,I'm Tuna Arıkaya👋,</h1>
 <h3 align="center">A passionate Mobile developer from Turkey.</h3>
 
 - 🔭 I’m currently working on **SwiftUI**
