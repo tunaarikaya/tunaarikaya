@@ -1,9 +1,9 @@
 <h1 align="center">Hi ,I'm Tuna Arıkaya👋,</h1>
 <h3 align="center">A passionate Mobile developer from Turkey.</h3>
 
-- 🔭 I’m currently working on **SwiftUI**
+- 🔭 I’m currently working on **SwiftUI & UIKit**
 
-- 🌱 I’m currently learning **Flutter,Swift,SwiftUI,Java,UIKit**
+- 🌱 I’m currently learning **Swift,SwiftUI,UIKit**
 
 - 👨‍💻 All of my projects are available at [https://github.com/tunaarikaya](https://github.com/tunaarikaya)
 
