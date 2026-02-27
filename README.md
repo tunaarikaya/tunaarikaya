@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Hi,%20I'm%20Tuna!%20👋&fontSize=80&fontAlignY=35&desc=iOS%20Developer%20|%202025%20Swift%20Student%20Challenge%20Winner&descAlignY=55&descAlign=50" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=San+Francisco&weight=600&size=40&duration=3000&pause=1000&color=000000&center=true&vCenter=true&width=1000&lines=Think+Different.;Here's+to+the+crazy+ones.;Hi,+I'm+Mehmet+Tuna+Ar%C4%B1kaya+;2025+Swift+Student+Challenge+Winner" />
 </div>
 
 <div align="center">
@@ -52,6 +52,6 @@
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tunaarikaya&show_icons=true&theme=nord&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tunaarikaya&theme=nord&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=tunaarikaya&show_icons=true&title_color=000000&icon_color=000000&text_color=000000&bg_color=ffffff&hide_border=true&border_radius=10" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tunaarikaya&theme=default&hide_border=true&border_radius=10&background=ffffff&ring=000000&fire=000000&currStreakNum=000000" width="48%" />
 </div>
