@@ -16,7 +16,7 @@
 ### 🏆 Highlights
 - 🍎 **2025 Apple Swift Student Challenge** - Winner
 - 🚀 **Indie App Developer** - Designing, building, and aggressively shipping my own iOS applications on the App Store
-- 👨‍💻 **Open Source Advocate** - Published over 50+ practical Swift repositories, actively sharing my journey and learnings
+- 👨–💻 **Open Source Advocate** - Published over 50+ practical Swift repositories, actively sharing my journey and learnings
 
 ---
 
@@ -56,9 +56,7 @@
 ---
 
 ### 📈 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tunaarikaya&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="400" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tunaarikaya&layout=compact&theme=tokyonight&hide_border=true" width="300" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tunaarikaya&theme=tokyonight&hide_border=true" width="705" />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=tunaarikaya&show_icons=true&theme=nord&hide_border=true&count_private=true&layout=compact" width="370" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tunaarikaya&theme=nord&hide_border=true&layout=compact" width="370" />
+</p>
