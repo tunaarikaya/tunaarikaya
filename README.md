@@ -1,26 +1,57 @@
-<h1 align="center">Hi ,I'm Tuna Arıkaya👋,</h1>
-<h3 align="center">A passionate Mobile developer from Turkey.</h3>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Hi,%20I'm%20Tuna!%20👋&fontSize=80&fontAlignY=35&desc=iOS%20Developer%20|%202025%20Swift%20Student%20Challenge%20Winner&descAlignY=55&descAlign=50" />
+</div>
 
-- 🔭 I’m currently working on **SwiftUI & UIKit**
+<div align="center">
+  <h3>Passionate iOS & Mobile Developer from Turkey 🇹🇷</h3>
+  <p>Dedicated to creating beautiful, accessible, and high-performance applications.</p>
+</div>
 
-- 🌱 I’m currently learning **Swift,SwiftUI,UIKit**
+---
 
-- 👨‍💻 All of my projects are available at [https://github.com/tunaarikaya](https://github.com/tunaarikaya)
+### 🏆 Highlights
+- 🍎 **2025 Apple Swift Student Challenge** - Winner
+- 🚀 **Indie App Developer** - Designing, building, and aggressively shipping my own iOS applications on the App Store
+- 👨‍💻 **Open Source Advocate** - Published over 50+ practical Swift repositories, actively sharing my journey and learnings
 
-- 📫 How to reach me **m.tunaarikaya@gmail.com**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/mehmet-tuna-arıkaya-9241b9248/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mehmettunaarıkaya" height="30" width="40" /></a>
+### 💻 Tech Stack & Indie Tools
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white" />
+  <img src="https://img.shields.io/badge/SwiftUI-007AFF?style=for-the-badge&logo=swift&logoColor=white" />
+  <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/RevenueCat-F55F55?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Adapty-007AFF?style=for-the-badge&logo=apple&logoColor=white" />
+  <img src="https://img.shields.io/badge/Mixpanel-7856FF?style=for-the-badge&logo=mixpanel&logoColor=white" />
+  <img src="https://img.shields.io/badge/AppStore_Connect-007AFF?style=for-the-badge&logo=appstore&logoColor=white" />
+  <img src="https://img.shields.io/badge/Apple_Search_Ads-000000?style=for-the-badge&logo=apple&logoColor=white" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> </p>
+---
 
-  
-  <!-- te234223433423 -->
+### 📊 Current Focus
+- 🔭 **Working on:** Building and shipping independent iOS applications to master the entire app lifecycle from clean code architecture to App Store optimization.
+- 🌱 **Learning:** Advanced app monetization, user acquisition strategies, and deepening my SwiftUI knowledge as a 3rd-year Computer Engineering student.
+- 🤝 **Sharing:** Documenting my indie developer journey and open-sourcing reusable components for the iOS ecosystem.
 
+---
 
-   
- 
+### 📫 Let's Connect!
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/mehmet-tuna-ar%C4%B1kaya-9241b9248/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://x.com/tunaarikaya"><img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
+  <a href="https://medium.com/@m.tunaarikaya"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" /></a>
+  <a href="https://www.youtube.com/@tunaarii"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
+  <a href="mailto:m.tunaarikaya@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
+
+<br>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=tunaarikaya&show_icons=true&theme=nord&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tunaarikaya&theme=nord&hide_border=true" width="48%" />
+</div>
