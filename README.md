@@ -1,5 +1,9 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=San+Francisco&weight=600&size=40&duration=3000&pause=1000&color=000000&center=true&vCenter=true&width=1000&lines=Think+Different.;Here's+to+the+crazy+ones.;Hi,+I'm+Mehmet+Tuna+Ar%C4%B1kaya+;2025+Swift+Student+Challenge+Winner" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=San+Francisco&weight=600&size=40&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=1000&lines=+Think+Different.;Here's+to+the+crazy+ones.;Hi,+I'm+Mehmet+Tuna+Arıkaya+;2025+Swift+Student+Challenge+Winner" />
+    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.herokuapp.com?font=San+Francisco&weight=600&size=40&duration=3000&pause=1000&color=000000&center=true&vCenter=true&width=1000&lines=+Think+Different.;Here's+to+the+crazy+ones.;Hi,+I'm+Mehmet+Tuna+Arıkaya+;2025+Swift+Student+Challenge+Winner" />
+    <img alt="Apple Think Different Banner" src="https://readme-typing-svg.herokuapp.com?font=San+Francisco&weight=600&size=40&duration=3000&pause=1000&color=000000&center=true&vCenter=true&width=1000&lines=+Think+Different.;Here's+to+the+crazy+ones.;Hi,+I'm+Mehmet+Tuna+Arıkaya+;2025+Swift+Student+Challenge+Winner" />
+  </picture>
 </div>
 
 <div align="center">
@@ -52,6 +56,6 @@
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tunaarikaya&show_icons=true&title_color=000000&icon_color=000000&text_color=000000&bg_color=ffffff&hide_border=true&border_radius=10" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tunaarikaya&theme=default&hide_border=true&border_radius=10&background=ffffff&ring=000000&fire=000000&currStreakNum=000000" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=tunaarikaya&show_icons=true&theme=vue-dark&hide_border=true&border_radius=10" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tunaarikaya&theme=vue-dark&hide_border=true&border_radius=10" width="48%" />
 </div>
