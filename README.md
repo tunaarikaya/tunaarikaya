@@ -14,7 +14,7 @@
 ---
 
 ### 🏆 Highlights
-- 🍎 **2025 Apple Swift Student Challenge** - Winner
+- 🍎 **2025 & 2026 Apple Swift Student Challenge** - Winner
 - 🚀 **Indie App Developer** - Designing, building, and aggressively shipping my own iOS applications on the App Store
 - 👨–💻 **Open Source Advocate** - Published over 50+ practical Swift repositories, actively sharing my journey and learnings
 
