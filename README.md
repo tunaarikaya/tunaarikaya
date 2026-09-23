@@ -11,13 +11,6 @@
   <p>iOS developer and indie app builder focused on shipping<br>and learning through real products.</p>
 </div>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/100K%2B-App_Downloads-30D158?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/2×-Swift_Student_Challenge_Winner-FF9F0A?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/%234-Pozify-32ADE6?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/%3C1%25-Crash_Rate-BF5AF2?style=for-the-badge" />
-</p>
-
 ---
 
 ### 🏆 Highlights
