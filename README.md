@@ -1,22 +1,31 @@
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=San+Francisco&weight=600&size=40&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=1000&height=100&lines=+Think+Different.;Here's+to+the+crazy+ones.;Hi,+I'm+Mehmet+Tuna+Arıkaya+;2025+Swift+Student+Challenge+Winner" />
-    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.herokuapp.com?font=San+Francisco&weight=600&size=40&duration=3000&pause=1000&color=000000&center=true&vCenter=true&width=1000&height=100&lines=+Think+Different.;Here's+to+the+crazy+ones.;Hi,+I'm+Mehmet+Tuna+Arıkaya+;2025+Swift+Student+Challenge+Winner" />
-    <img alt="Apple Think Different Banner" src="https://readme-typing-svg.herokuapp.com?font=San+Francisco&weight=600&size=40&duration=3000&pause=1000&color=000000&center=true&vCenter=true&width=1000&height=100&lines=+Think+Different.;Here's+to+the+crazy+ones.;Hi,+I'm+Mehmet+Tuna+Arıkaya+;2025+Swift+Student+Challenge+Winner" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=San+Francisco&weight=600&size=32&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=1000&height=100&lines=Building+iOS+apps+people+actually+use.;Two-time+Swift+Student+Challenge+winner.;100K%2B+downloads+across+my+apps.;From+SwiftUI+to+the+App+Store." />
+    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.herokuapp.com?font=San+Francisco&weight=600&size=32&duration=3000&pause=1000&color=000000&center=true&vCenter=true&width=1000&height=100&lines=Building+iOS+apps+people+actually+use.;Two-time+Swift+Student+Challenge+winner.;100K%2B+downloads+across+my+apps.;From+SwiftUI+to+the+App+Store." />
+    <img alt="Header" src="https://readme-typing-svg.herokuapp.com?font=San+Francisco&weight=600&size=32&duration=3000&pause=1000&color=000000&center=true&vCenter=true&width=1000&height=100&lines=Building+iOS+apps+people+actually+use.;Two-time+Swift+Student+Challenge+winner.;100K%2B+downloads+across+my+apps.;From+SwiftUI+to+the+App+Store." />
   </picture>
 </div>
 
 <div align="center">
-  <h3>Passionate iOS & Mobile Developer from Turkey 🇹🇷</h3>
-  <p>Dedicated to creating beautiful, accessible, and high-performance applications.</p>
+  <h3>Mehmet Tuna Arıkaya — iOS Developer</h3>
+  <p>iOS developer and indie app builder focused on shipping<br>and learning through real products.</p>
 </div>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/100K%2B-App_Downloads-30D158?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/2×-Swift_Student_Challenge_Winner-FF9F0A?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/%234-Pozify-32ADE6?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/%3C1%25-Crash_Rate-BF5AF2?style=for-the-badge" />
+</p>
 
 ---
 
-### 🏆  Highlights
-- 🍎 **2025 & 2026 Apple Swift Student Challenge** - Winner
-- 🚀 **Indie App Developer** - Designing, building, and aggressively shipping my own iOS applications on the App Store
-- 👨–💻 **Open Source Advocate** - Published over 50+ practical Swift repositories, actively sharing my journey and learnings
+### 🏆 Highlights
+- 2025 & 2026 Apple Swift Student Challenge winner, invited to WWDC26 in Cupertino.
+- Built and shipped iOS apps with 100K+ total App Store downloads.
+- Pozify reached #4 in its category on the Turkish App Store.
+- Production apps maintain a crash rate below 1% based on App Store Connect data.
+- Currently working at Innovance while building independent apps alongside.
 
 ---
 
@@ -27,6 +36,7 @@
   <img src="https://img.shields.io/badge/SwiftUI-007AFF?style=for-the-badge&logo=swift&logoColor=white" />
   <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white" />
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
   <img src="https://img.shields.io/badge/RevenueCat-F55F55?style=for-the-badge&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Adapty-007AFF?style=for-the-badge&logo=apple&logoColor=white" />
   <img src="https://img.shields.io/badge/Mixpanel-7856FF?style=for-the-badge&logo=mixpanel&logoColor=white" />
@@ -37,9 +47,9 @@
 ---
 
 ### 📊 Current Focus
-- 🔭 **Working on:** Building and shipping independent iOS applications to master the entire app lifecycle.
-- 🌱 **Learning:** Advanced app monetization, user acquisition strategies, and deepening SwiftUI knowledge.
-- 🤝 **Sharing:** Documenting my indie developer journey and open-sourcing reusable components.
+- 🔭 Working on: shipping and iterating on my own iOS apps.
+- 🌱 Learning: app monetization and scaling products post-launch.
+- 🤝 Sharing: selected open source projects.
 
 ---
 
